@@ -1,0 +1,14 @@
+{
+  "name": "mind-elixir-react",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/zzloxr09mp",
+  "main": "index.js",
+  "dependencies": {
+    "mind-elixir": "0.9.5",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-flexbox-grid": "2.1.0"
+  }
+}
